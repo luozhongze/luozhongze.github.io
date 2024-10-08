@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhongze Luo"
   avatar           : "images/photo.jpg"
-  bio              : "Northeast Forestry University(Harbin, China)"
+  bio              : "Northeast Forestry University (Harbin, China)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -38,6 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : "luozhongze" # e.g., "github username"
+  huggingface      : "https://huggingface.co/luozhongze"
   google_plus      :
   keybase          :
   instagram        :
@@ -56,7 +57,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+
 
 
 # Reading Files
