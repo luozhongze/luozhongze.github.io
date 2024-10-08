@@ -19,9 +19,9 @@ redirect_from:
 
 I am currently a senior undergraduate student majoring in Communication Engineering at [Northeast Forestry University](https://www.nefu.edu.cn/). During my undergraduate studies, I was fortunate to have the opportunity to start my research under the guidance of [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://github.com/NEFUJing), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home) in succession. Now, I am honored to be a visiting student at The Chinese University of Hong Kong (Shenzhen) under the guidance of [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying), with my research direction being multimodal large models.
 
-My research interests include machine learning, knowledge graphs, multimodal large models, and the construction of evaluation datasets for large models.
+My research interests include machine learning, knowledge graphs, multimodal large models, and the construction of evaluation datasets for large models. I am still in the initial learning stage of scientific research and have strong self-motivation.
 
-You can find my CV here: [Zhongze Luo’s Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](luozhongze0928@foxmail.com).
+You can find my CV here: [Zhongze Luo’s Curriculum Vitae](https://github.com/luozhongze/luozhongze.github.io/blob/main/assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com).
 
 
 # 🔥 News
