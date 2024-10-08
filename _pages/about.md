@@ -21,6 +21,8 @@ I am currently a senior undergraduate student majoring in Communication Engineer
 
 My research interests include machine learning, knowledge graphs, multimodal large models, and the construction of evaluation datasets for large models.
 
+You can find my CV here: [Zhongze Luo’s Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](luozhongze0928@foxmail.com).
+
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
