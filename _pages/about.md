@@ -25,7 +25,7 @@ You can find my CV here: [Zhongze Luo’s Curriculum Vitae](https://github.com/l
 
 
 # 🔥 News
-- *now*, I have **3** pepers (1 Journal, 2 Conference) that have been submitted and are under review.
+- *now*, I have **3** pepers (**1** Journal, **2** Conference) that have been submitted and are **under review**.
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 📝 Publications 
@@ -37,7 +37,7 @@ You can find my CV here: [Zhongze Luo’s Curriculum Vitae](https://github.com/l
 
 **Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, Guanghui Dong
 
-[**Project**](https://doi.org/10.5755/j01.itc.53.2.36336) | SCI Journal Paper (JCR Q3, IF:2)
+[**Project**](https://doi.org/10.5755/j01.itc.53.2.36336) | **SCI Journal Paper (JCR Q3, IF:2)**
 - Information Technology and Control, 53(2), 601-618. https://doi.org/10.5755/j01.itc.53.2.36336. 
 </div>
 </div>
@@ -46,8 +46,8 @@ You can find my CV here: [Zhongze Luo’s Curriculum Vitae](https://github.com/l
 - *2022.03* University-level first-class scholarship (Top 10%)
 
 # 📖 Educations
-- *2021.09 - now*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. 
+- *2021.09 - now*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://github.com/NEFUJing), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home)
 
 # 💻 Internships
-- *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), China.
+- *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), China.
