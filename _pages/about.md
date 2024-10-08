@@ -27,7 +27,7 @@ My research interests include machine learning, knowledge graphs, multimodal lar
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITC 2024</div><img src='images/image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITC 2024</div><img src='../images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Elderly Fall Detection Algorithm Based on Improved YOLOv5s](https://doi.org/10.5755/j01.itc.53.2.36336)
