@@ -23,7 +23,6 @@ My research interests include machine learning, knowledge graphs, multimodal lar
 
 You can find my CV here: [Zhongze Luo’s Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com).
 
-
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **3** papers (**1** Journal, **2** Conference) that have been submitted and are **under review**.
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
