@@ -25,6 +25,7 @@ You can find my CV here: [Zhongze Luo’s Curriculum Vitae](https://github.com/l
 
 
 # 🔥 News
+- *now*, I have **3** pepers (1 Journal, 2 Conference) that have been submitted and are under review.
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 📝 Publications 
