@@ -36,7 +36,7 @@ You can find my CV here: [Zhongze Luo’s Curriculum Vitae](../assets/CV.pdf). I
 
 **Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, Guanghui Dong
 
-[**Project**](https://doi.org/10.5755/j01.itc.53.2.36336) | **SCI Journal Paper (JCR Q3, IF:2)**
+[**Project**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) | **SCI Journal Paper (JCR Q3, IF:2)**
 - Information Technology and Control, 53(2), 601-618. https://doi.org/10.5755/j01.itc.53.2.36336. 
 </div>
 </div>
