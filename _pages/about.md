@@ -44,7 +44,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 # 📝 Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="1">
 
 [LawLuo: A Chinese Law Firm Co-run by LLM Agents](https://doi.org/10.48550/arXiv.2407.16252)
 
@@ -55,7 +55,7 @@ Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ForPKG-1.0</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="3">
+<div class='paper-box-text' markdown="1">
 
 [ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://doi.org/10.48550/arXiv.2411.11090)
 
