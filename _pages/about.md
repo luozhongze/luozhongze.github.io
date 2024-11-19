@@ -54,7 +54,7 @@ Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ForPKG-1.0</div><img src='../images/image3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ForPKG-1.0</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="3">
 
 [ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://doi.org/10.48550/arXiv.2411.11090)
