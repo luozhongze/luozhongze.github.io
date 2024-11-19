@@ -27,7 +27,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 - *now*: &nbsp;🎓🎓 I have **3** papers (**1** Journal, **2** Conference) that have been submitted and are **under review**.
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
-# 📝 Publications 
+# 🎉 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITC 2024</div><img src='../images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,12 +41,36 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 📝 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITC 2024</div><img src='../images/logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="2">
+
+[LawLuo: A Chinese Law Firm Co-run by LLM Agents](https://doi.org/10.48550/arXiv.2407.16252)
+
+Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li
+
+- arXiv preprint arXiv:2407.16252, 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITC 2024</div><img src='../images/image3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="3">
+
+[ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://doi.org/10.48550/arXiv.2411.11090)
+
+Jingyun Sun, **Zhongze Luo**
+
+- arXiv preprint arXiv:2411.11090, 2024.
+</div>
+</div>
+
+# ✨ Honors and Awards
 - *2022.03* University-level first-class scholarship (Top 10%)
 
 # 📖 Educations
 - *2021.09 - now*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://github.com/NEFUJing), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home)
 
-# 💻 Internships
+# 🔍 Internships
 - *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), China.
