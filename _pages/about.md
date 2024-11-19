@@ -42,7 +42,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 </div>
 
 # 📝 Preprints
-
+<span class='anchor' id='Preprints'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,3 +74,8 @@ Jingyun Sun, **Zhongze Luo**
 # 🔍 Internships
 - *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), China.
+
+# 💖 Alma Mater
+
+<div class='paper-box'><div class='paper-box-image'><img src='../images/4fd0d325b60a006d0538ca4aacda7a2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
