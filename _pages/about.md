@@ -77,5 +77,26 @@ Jingyun Sun, **Zhongze Luo**
 
 # 💖 Alma Mater
 
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/6.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 <div class='paper-box'><div class='paper-box-image'><img src='../images/1/7.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
