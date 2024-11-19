@@ -77,5 +77,5 @@ Jingyun Sun, **Zhongze Luo**
 
 # 💖 Alma Mater
 
-<div class='paper-box'><div class='paper-box-image'><img src='../images/4fd0d325b60a006d0538ca4aacda7a2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/7.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
