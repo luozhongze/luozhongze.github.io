@@ -76,7 +76,7 @@ Jingyun Sun, **Zhongze Luo**
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), China.
 
 # 💖 Alma Mater
-
+- My wonderful memories, recorded by myself.
 <div class='paper-box'><div class='paper-box-image'><img src='../images/1/1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
