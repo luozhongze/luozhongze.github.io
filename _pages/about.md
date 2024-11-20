@@ -24,10 +24,22 @@ My research interests include machine learning, knowledge graphs, multimodal lar
 You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
 # 🔥 News
-- *now*: &nbsp;🎓🎓 I have **3** papers (**1** Journal, **2** Conference) that have been submitted and are **under review**.
+- *now*: &nbsp;🎓🎓 I have **3** papers (**2** Journal, **1** Conference) that have been submitted and are **under review**.
+- *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025. 
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/Figure2.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Compliance Checking Framework Based on Retrieval Augmented Generation
+
+Jingyun Sun, **Zhongze Luo**, Yang Li
+
+The 31st International Conference on Computational Linguistics (COLING 2025). | **Conference Paper (CCF B)**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITC 2024</div><img src='../images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
