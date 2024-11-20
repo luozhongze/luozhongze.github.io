@@ -37,7 +37,7 @@ A Compliance Checking Framework Based on Retrieval Augmented Generation
 
 Jingyun Sun, **Zhongze Luo**, Yang Li
 
-The 31st International Conference on Computational Linguistics (COLING 2025). | **Conference Paper (CCF B)**
+The 31st International Conference on Computational Linguistics (COLING 2025). | **CCF B/CORE B/THCPL B**
 </div>
 </div>
 
