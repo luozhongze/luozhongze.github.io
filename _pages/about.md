@@ -35,7 +35,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 
 A Compliance Checking Framework Based on Retrieval Augmented Generation
 
-Jingyun Sun, **Zhongze Luo**, Yang Li$^*$
+Jingyun Sun, **Zhongze Luo**, Yang Li*
 
 The 31st International Conference on Computational Linguistics (COLING 2025). | **CCF B/CORE B/THCPL B**
 </div>
@@ -46,7 +46,7 @@ The 31st International Conference on Computational Linguistics (COLING 2025). | 
 
 [Elderly Fall Detection Algorithm Based on Improved YOLOv5s](https://doi.org/10.5755/j01.itc.53.2.36336)
 
-**Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, Guanghui Dong
+**Zhongze Luo***, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, Guanghui Dong
 
 [**Project**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) | **SCI Journal Paper (JCR Q3, IF:2)**
 - Information Technology and Control, 53(2), 601-618. https://doi.org/10.5755/j01.itc.53.2.36336. 
@@ -60,7 +60,7 @@ The 31st International Conference on Computational Linguistics (COLING 2025). | 
 
 [LawLuo: A Chinese Law Firm Co-run by LLM Agents](https://doi.org/10.48550/arXiv.2407.16252)
 
-Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li
+Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li*
 
 - arXiv preprint arXiv:2407.16252, 2024.
 </div>
@@ -71,7 +71,7 @@ Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li
 
 [ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://doi.org/10.48550/arXiv.2411.11090)
 
-Jingyun Sun, **Zhongze Luo**
+Jingyun Sun, **Zhongze Luo***
 
 - arXiv preprint arXiv:2411.11090, 2024.
 </div>
