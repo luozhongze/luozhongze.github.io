@@ -35,7 +35,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 
 A Compliance Checking Framework Based on Retrieval Augmented Generation
 
-Jingyun Sun, **Zhongze Luo**, Yang Li
+Jingyun Sun, **Zhongze Luo**, Yang Li$^*$
 
 The 31st International Conference on Computational Linguistics (COLING 2025). | **CCF B/CORE B/THCPL B**
 </div>
