@@ -30,7 +30,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 
 # 🎉 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Compliance Checking Framework Based on Retrieval Augmented Generation
