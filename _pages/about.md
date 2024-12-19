@@ -55,10 +55,10 @@ The 31st International Conference on Computational Linguistics (COLING 2025). | 
 
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/Figure_2.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LawLuo: A Chinese Law Firm Co-run by LLM Agents](https://doi.org/10.48550/arXiv.2407.16252)
+[LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
 
 Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li*
 
