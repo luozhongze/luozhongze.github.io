@@ -87,9 +87,11 @@ Jingyun Sun, **Zhongze Luo***
 
 # 💖 Alma Mater
 My wonderful memories, recorded by myself.
-<div class='paper-box-image'><img src='../images/1/1.jpg' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box-image'><img src='../images/1/2.jpg' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><img src='../images/1/2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><img src='../images/1/3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
