@@ -75,15 +75,15 @@ Jingyun Sun, **Zhongze Luo***
 </div>
 </div>
 
-# ✨ Honors and Awards
-- *2022.03* University-level first-class scholarship (Top 10%)
-
 # 📖 Educations
 - *2021.09 - now*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://github.com/NEFUJing), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home)
 
 # 🔍 Internships
 - *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), Shenzhen, China.
+
+# ✨ Honors and Awards
+- *2022.03* University-level first-class scholarship (Top 6%)
 
 # 💖 Alma Mater
 My wonderful memories, recorded by myself.
