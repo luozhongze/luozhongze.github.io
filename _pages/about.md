@@ -23,7 +23,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **3** papers (**2** Journal, **1** Conference) that have been submitted and are **under review**.
-- *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025(Oral). 
+- *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 (Oral). 
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
@@ -31,11 +31,13 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Compliance Checking Framework Based on Retrieval Augmented Generation(Oral)
+A Compliance Checking Framework Based on Retrieval Augmented Generation
 
 Jingyun Sun, **Zhongze Luo**, Yang Li*
 
-The 31st International Conference on Computational Linguistics (COLING 2025). | **CCF B/CORE B/THCPL B**
+The 31st International Conference on Computational Linguistics
+
+COLING 2025 (Oral). | **CCF B/CORE B/THCPL B**
 </div>
 </div>
 
