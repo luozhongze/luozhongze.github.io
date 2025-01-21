@@ -31,13 +31,11 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Compliance Checking Framework Based on Retrieval Augmented Generation
+[A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
 
 Jingyun Sun, **Zhongze Luo**, Yang Li*
 
-The 31st International Conference on Computational Linguistics
-
-COLING 2025 (Oral). | **CCF B/CORE B/THCPL B**
+The 31st International Conference on Computational Linguistics (COLING 2025 Oral). | **CCF B/CORE B/THCPL B**
 </div>
 </div>
 
