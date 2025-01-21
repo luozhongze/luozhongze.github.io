@@ -35,7 +35,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 
 Jingyun Sun, **Zhongze Luo**, Yang Li*
 
-The 31st International Conference on Computational Linguistics (COLING 2025 Oral). | **CCF B/CORE B/THCPL B**
+In Proceedings of the 31st International Conference on Computational Linguistics, pages 2603–2615, Abu Dhabi, UAE. (COLING 2025 Oral). | **CCF B/CORE B/THCPL B**
 </div>
 </div>
 
