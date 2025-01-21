@@ -86,7 +86,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 - *2022.03* University-level first-class scholarship (Top 6%)
 
 # 💖 Alma Mater
-My wonderful memories, recorded by myself.
+- recorded by me.
 <div class='paper-box'><div class='paper-box-image'><img src='../images/1/1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
