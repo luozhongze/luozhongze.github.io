@@ -75,6 +75,17 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HGO-YOLO</div><img src='../images/hgo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://arxiv.org/abs/2503.07371)
+
+Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
+
+- arXiv preprint arXiv:2503.07371, 2025.
+</div>
+</div>
+
 # 📖 Educations
 - *2021.09 - now*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home)
 
