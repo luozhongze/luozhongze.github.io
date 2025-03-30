@@ -22,7 +22,7 @@ I am currently a senior undergraduate student majoring in Communication Engineer
 You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
 # 🔥 News
-- *now*: &nbsp;🎓🎓 I have **3** papers (**1** Journal, **2** Conference) that have been submitted and are **under review**.
+- *now*: &nbsp;🎓🎓 I have **4** papers (**2** Journal, **2** Conference) that have been submitted and are **under review**.
 - *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 (Oral). 
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
