@@ -37,6 +37,7 @@ ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Applica
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo***
 
 In Proceedings of the International Joint Conference on Neural Networks (IJCNN) 2025 | **CCF C/CORE B/THCPL B**
+
 [arXiv preprint arXiv:2411.11090, 2024](https://doi.org/10.48550/arXiv.2411.11090).
 </div>
 </div>
@@ -60,6 +61,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 **Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
 
 [**Project**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) | **SCI Journal Paper (JCR Q3, IF:2)**
+
 Information Technology and Control, 53(2), 601-618. https://doi.org/10.5755/j01.itc.53.2.36336. 
 </div>
 </div>
