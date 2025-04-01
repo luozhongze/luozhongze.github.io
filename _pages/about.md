@@ -22,11 +22,24 @@ I am currently a senior undergraduate student majoring in Communication Engineer
 You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
 # 🔥 News
-- *now*: &nbsp;🎓🎓 I have **4** papers (**2** Journal, **2** Conference) that have been submitted and are **under review**.
+- *now*: &nbsp;🎓🎓 I have **3** papers (**2** Journal, **1** Conference) that have been submitted and are **under review**.
+- *2025.4*: &nbsp;🎉🎉 New Conference Paper Accepted by IJCNN 2025. 
 - *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 (Oral). 
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://doi.org/10.48550/arXiv.2411.11090)
+
+[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo***
+
+In Proceedings of the International Joint Conference on Neural Networks (IJCNN) 2025 | **CCF C/CORE B/THCPL B**
+- [arXiv preprint arXiv:2411.11090, 2024](https://doi.org/10.48550/arXiv.2411.11090).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,17 +74,6 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
 - arXiv preprint arXiv:2407.16252, 2024.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ForPKG-1.0</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ForPKG-1.0: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://doi.org/10.48550/arXiv.2411.11090)
-
-[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo***
-
-- arXiv preprint arXiv:2411.11090, 2024.
 </div>
 </div>
 
