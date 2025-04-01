@@ -24,7 +24,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **3** papers (**2** Journal, **1** Conference) that have been submitted and are **under review**.
 - *2025.4*: &nbsp;🎉🎉 New Conference Paper Accepted by IJCNN 2025. 
-- *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 (Oral). 
+- *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 Oral. 
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
