@@ -37,7 +37,7 @@ ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Applica
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo***
 
 In Proceedings of the International Joint Conference on Neural Networks (IJCNN) 2025 | **CCF C/CORE B/THCPL B**
-- [arXiv preprint arXiv:2411.11090, 2024](https://doi.org/10.48550/arXiv.2411.11090).
+- [arXiv preprint arXiv:2411.11090, 2024](https://doi.org/10.48550/arXiv.2411.11090). (Original version before submission)
 </div>
 </div>
 
