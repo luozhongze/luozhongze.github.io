@@ -214,20 +214,9 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.modelscope %}
-        <li>
-          <a href="https://modelscope.cn/profile/{{ author.modelscope }}">
-            <svg t="1744448881177" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3050" width="20" height="20">
-              <path d="M21.3504 465.6128h112.384v112.4352H21.3504V465.6128zM455.7824 578.048h112.4352v112.384H455.7824v-112.4352zM792.9856 690.432h-112.384v97.28h209.664v-209.7152h-97.28v112.4352z" fill="#624AFF" p-id="3051"></path>
-              <path d="M568.2176 465.6128h112.384v112.4352h-112.384V465.6128zM21.3504 353.28h112.384v112.384H21.3504V353.2288z" fill="#36CFD1" p-id="3052"></path>
-              <path d="M890.2656 465.6128h112.384v112.4352h-112.384V465.6128z" fill="#624AFF" p-id="3053"></path>
-              <path d="M890.2656 353.28h112.384v112.384h-112.384V353.2288z" fill="#36CFD1" p-id="3054"></path>
-              <path d="M680.6016 256v97.28h112.384v112.384h97.28V256h-209.664z" fill="#624AFF" p-id="3055"></path>
-              <path d="M343.3472 465.6128h112.4352v112.4352H343.3472V465.6128z" fill="#36CFD1" p-id="3056"></path>
-              <path d="M231.0144 353.28h112.384V256H133.7344v209.664h97.28V353.28zM231.0144 578.048h-97.28v209.6128h209.664v-97.28H231.0144V578.048z" fill="#624AFF" p-id="3057"></path>
-            </svg> 
-            modelscope
-          </a>
-        </li>
+        <li><a href="https://modelscope.cn/profile/{{ author.modelscope }}">
+          <img src="./model.svg" alt="Modelscope" style="width: 20px; height: 20px;">
+        </a></li>
       {% endif %}
     </div>
   </div>
