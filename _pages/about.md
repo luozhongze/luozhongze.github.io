@@ -101,18 +101,19 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 - *2022.03* University-level first-class scholarship (Top 6%)
 
 # 📸 Miscellaneous
-I like Formula 1 very much and my home team is McLaren. If you also like it, you are welcome to communicate with me, let's enjoy the fast and furious together.
+
 <div class='paper-box'><div class='paper-box-image'><img src='../images/f1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+I like Formula 1 very much and my home team is McLaren. If you also like it, you are welcome to communicate with me, let's enjoy the fast and furious together.
 
-I like watching movies very much. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
 <div class='paper-box'><div class='paper-box-image'><img src='../images/hp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+I like watching movies very much. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
 
-I also really like listening to music, I love all styles of music, such as R&B, Hip-Hop, Pop and so on.
 <div class='paper-box'><div class='paper-box-image'><img src='../images/hx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+I also really like listening to music, I love all styles of music, such as R&B, Hip-Hop, Pop and so on.
+  
 # 💖 Alma Mater
 - recorded by me.
 <div class='paper-box'><div class='paper-box-image'><img src='../images/1/1.jpg' alt="sym" width="100%"></div></div>
