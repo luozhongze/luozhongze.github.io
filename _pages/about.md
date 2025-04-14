@@ -104,7 +104,7 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 
 I like Formula 1 very much and my home team is McLaren. If you also like it, you are welcome to communicate with me, let's enjoy the fast and furious together.
 
-I like watching movies very much. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
+I like watching movies so much. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
 
 I also really like listening to music, I love all styles of music, such as R&B, Hip-Hop, Pop and so on.
 
