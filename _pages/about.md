@@ -61,6 +61,8 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 [**Project**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) | **SCI Journal Paper (JCR Q3, IF:2)**
 - Information Technology and Control, 53(2), 601-618. https://doi.org/10.5755/j01.itc.53.2.36336.
+</div>
+</div>
 
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
@@ -83,6 +85,8 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
 
 - arXiv preprint arXiv:2503.07371, 2025.
+</div>
+</div>
 
 # 📖 Educations
 - *2021.09 - now*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home)
