@@ -105,7 +105,7 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 
 - I like watching movies very much. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
 
-- I also really like listening to music, I love all styles of music, such as RnB, hip hop, pop and so on.
+- I also really like listening to music, I love all styles of music, such as R&B, Hip-Hop, Pop and so on.
 
 # 💖 Alma Mater
 - recorded by me.
