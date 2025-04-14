@@ -61,8 +61,6 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 [**Project**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) | **SCI Journal Paper (JCR Q3, IF:2)**
 - Information Technology and Control, 53(2), 601-618. https://doi.org/10.5755/j01.itc.53.2.36336.
-</div>
-</div>
 
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
