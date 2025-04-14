@@ -91,12 +91,21 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 # 📖 Educations
 - *2021.09 - now*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home)
 
+- Welcome to visit my undergraduate thesis project [here](https://modelscope.cn/models/lzz66666/Qwen_communication_standards). Supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)
+
 # 🔍 Internships
 - *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), Shenzhen, China.
 
 # ✨ Honors and Awards
 - *2022.03* University-level first-class scholarship (Top 6%)
+
+# :camera_flash: Miscellaneous
+- I like Formula 1 very much and my home team is McLaren. If you also like it, you are welcome to communicate with me, let's enjoy the fast and furious together.
+
+- I like watching movies very much. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
+
+- I also really like listening to music, I love all styles of music, such as RnB, hip hop, pop and so on.
 
 # 💖 Alma Mater
 - recorded by me.
