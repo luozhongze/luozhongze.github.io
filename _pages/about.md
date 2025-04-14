@@ -100,7 +100,7 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 # ✨ Honors and Awards
 - *2022.03* University-level first-class scholarship (Top 6%)
 
-# :camera_flash: Miscellaneous
+# 📸 Miscellaneous
 - I like Formula 1 very much and my home team is McLaren. If you also like it, you are welcome to communicate with me, let's enjoy the fast and furious together.
 
 - I like watching movies very much. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
