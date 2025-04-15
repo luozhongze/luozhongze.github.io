@@ -116,19 +116,39 @@ I also really like listening to music, I love all styles of music, such as R&B, 
   
 # 💖 Alma Mater
 recorded by me.
-<div class='paper-box'><div class='paper-box-image'><img src='../images/1/1.jpg' alt="sym" width="50%">
-<div class='paper-box'><div class='paper-box-image'><img src='../images/1/2.jpg' alt="sym" width="50%">
-<div class='paper-box'><div class='paper-box-image'><img src='../images/1/3.jpg' alt="sym" width="50%">
-<div class='paper-box'><div class='paper-box-image'><img src='../images/1/4.jpg' alt="sym" width="50%">
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%;">
+    <img src='../images/1/1.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-image' style="display: inline-block; width: 48%;">
+    <img src='../images/1/2.jpg' alt="sym" width="100%">
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='../images/1/5.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-<div class='paper-box'><div class='paper-box-image'><img src='../images/1/6.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-<div class='paper-box'><div class='paper-box-image'><img src='../images/1/7.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-<div class='paper-box'><div class='paper-box-image'><img src='../images/1/8.jpg' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%;">
+    <img src='../images/1/3.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-image' style="display: inline-block; width: 48%;">
+    <img src='../images/1/4.jpg' alt="sym" width="100%">
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%;">
+    <img src='../images/1/5.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-image' style="display: inline-block; width: 48%;">
+    <img src='../images/1/6.jpg' alt="sym" width="100%">
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%;">
+    <img src='../images/1/7.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-image' style="display: inline-block; width: 48%;">
+    <img src='../images/1/8.jpg' alt="sym" width="100%">
+  </div>
+</div>
+
