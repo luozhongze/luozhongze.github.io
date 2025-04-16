@@ -136,7 +136,7 @@ I also really like listening to music, I love all styles of music, such as R&B, 
     <img src='../images/1/1.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
   </div>
   <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/2.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
+    <img src='../images/1/6.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
   </div>
 </div>
 
@@ -146,7 +146,7 @@ I also really like listening to music, I love all styles of music, such as R&B, 
     <img src='../images/1/5.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
   </div>
   <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/6.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
+    <img src='../images/1/2.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
   </div>
 </div>
 
