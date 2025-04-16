@@ -106,7 +106,7 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 
 I like Formula 1 very much and my home team is McLaren. If you also like it, you are welcome to communicate with me, let's enjoy the fast and furious together.
 
-<div class='paper-box' style="margin-bottom: 20px; padding: 0; border: none;">
+<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
     <img src='../images/f1.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
   </div>
@@ -114,7 +114,7 @@ I like Formula 1 very much and my home team is McLaren. If you also like it, you
 
 I like watching movies. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
 
-<div class='paper-box' style="margin-bottom: 20px; padding: 0; border: none;">
+<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
     <img src='../images/hp.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
   </div>
@@ -122,7 +122,7 @@ I like watching movies. My favorite movies are Interstellar, Titanic, Coco, Harr
 
 I also really like listening to music, I love all styles of music, such as R&B, Hip-Hop, Pop and so on.
 
-<div class='paper-box' style="margin-bottom: 20px; padding: 0; border: none;">
+<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
     <img src='../images/hx.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
   </div>
