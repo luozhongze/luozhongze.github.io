@@ -106,9 +106,9 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 
 I like Formula 1 very much and my home team is McLaren. If you also like it, you are welcome to communicate with me, let's enjoy the fast and furious together.
 
-<div class='paper-box' style="margin: 0; padding: 0; border: none;">
-  <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
-    <img src='../images/f1.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
+<div class='paper-box' style="margin: 10; padding: 10; border: none;">
+  <div class='paper-box-image' style="margin: 10; padding: 10; border: none;">
+    <img src='../images/f1.jpg' alt="sym" width="100%" style="margin: 10; padding: 10; border: none;">
   </div>
 </div>
 
