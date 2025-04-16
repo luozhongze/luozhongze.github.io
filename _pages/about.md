@@ -128,8 +128,9 @@ I also really like listening to music, I love all styles of music, such as R&B, 
   </div>
 </div>
   
-# 💖 Alma Mater
-recorded by me.
+# 💖 Alma Mater recorded by me
+
+*spring*
 <div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
     <img src='../images/1/1.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
@@ -139,6 +140,7 @@ recorded by me.
   </div>
 </div>
 
+*summer*
 <div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
     <img src='../images/1/5.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
@@ -148,6 +150,7 @@ recorded by me.
   </div>
 </div>
 
+*autumn*
 <div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
     <img src='../images/1/3.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
@@ -157,6 +160,7 @@ recorded by me.
   </div>
 </div>
 
+*winter*
 <div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
     <img src='../images/1/7.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
