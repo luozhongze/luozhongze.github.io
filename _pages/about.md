@@ -110,11 +110,24 @@ I like watching movies. My favorite movies are Interstellar, Titanic, Coco, Harr
 
 I also really like listening to music, I love all styles of music, such as R&B, Hip-Hop, Pop and so on.
 
-<div class='paper-box'><div class='paper-box-image'><img src='../images/f1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin: 0; padding: 0; border: none;">
+  <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
+    <img src='../images/f1.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='../images/hp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin: 0; padding: 0; border: none;">
+  <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
+    <img src='../images/hp.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='../images/hx.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin: 0; padding: 0; border: none;">
+  <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
+    <img src='../images/hx.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
+  </div>
+</div>
+
   
 # 💖 Alma Mater
 recorded by me.
