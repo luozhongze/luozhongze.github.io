@@ -141,19 +141,19 @@ recorded by me.
 
 <div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/3.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
+    <img src='../images/1/5.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
   </div>
   <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/4.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
+    <img src='../images/1/6.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
   </div>
 </div>
 
 <div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
   <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/5.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
+    <img src='../images/1/3.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
   </div>
   <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/6.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
+    <img src='../images/1/4.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
   </div>
 </div>
 
