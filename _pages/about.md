@@ -130,12 +130,12 @@ I also really like listening to music, I love all styles of music, such as R&B, 
   
 # 💖 Alma Mater
 recorded by me.
-<div class='paper-box' style="margin-bottom: 5; padding: 5; border: none;">
-  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding:5; border: none;">
-    <img src='../images/1/1.jpg' alt="sym" width="100%" style="margin: 5; border: none;">
+<div class='paper-box' style="margin-bottom: 2; padding: 2; border: none;">
+  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding:2; border: none;">
+    <img src='../images/1/1.jpg' alt="sym" width="100%" style="margin: 2; border: none;">
   </div>
-  <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 5; border: none;">
-    <img src='../images/1/2.jpg' alt="sym" width="100%" style="margin: 5; border: none;">
+  <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 2; border: none;">
+    <img src='../images/1/2.jpg' alt="sym" width="100%" style="margin: 2; border: none;">
   </div>
 </div>
 
