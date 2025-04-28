@@ -98,9 +98,9 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), Shenzhen, China.
 
 # ✨ Honors and Awards
+- *2024.08* Chinese Collegiate Computing Competition - Third Prize
+- *2022.11* Contemporary Undergraduate Mathematical Contest in Modeling - Provincial First Prize
 - *2022.03* University scholarship - First Prize
-- *2022.11* National College Students Mathematical Contest in Modeling - Provincial First Prize
-- *2024.08* China College Student Computer Design Competition - Third Prize
 
 # 📸 Miscellaneous
 
