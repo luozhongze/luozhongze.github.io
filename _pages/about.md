@@ -32,12 +32,12 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://doi.org/10.48550/arXiv.2411.11090v2)
+[ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://arxiv.org/abs/2411.11090v2)
 
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo***
 
 [**Github**](https://github.com/luozhongze/ForPKG) | In Proceedings of the International Joint Conference on Neural Networks (IJCNN) 2025 | **CCF C/CORE B/THCPL B**
-- [arXiv preprint arXiv:2411.11090, 2024](https://doi.org/10.48550/arXiv.2411.11090v1). (Original journal version)
+- [arXiv preprint arXiv:2411.11090v1, 2024](https://arxiv.org/abs/2411.11090v1). (Original journal version)
 </div>
 </div>
 
