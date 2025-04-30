@@ -37,7 +37,7 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo***
 
 [**Github**](https://github.com/luozhongze/ForPKG) | In Proceedings of the International Joint Conference on Neural Networks (IJCNN) 2025 | **CCF C/CORE B/THCPL B**
-- [arXiv preprint arXiv:2411.11090v1, 2024](https://arxiv.org/abs/2411.11090v1). (Original journal version)
+- [arXiv preprint arXiv:2411.11090v1, 2024](https://arxiv.org/abs/2411.11090v1). (Journal version)
 </div>
 </div>
 
