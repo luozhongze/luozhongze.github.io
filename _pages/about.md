@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My Chinese name is 罗中泽. I am currently a senior undergraduate majoring in Communication Engineering at [<img src="../images/NEFU_FLAG.png" alt="NEFU Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">Northeast Forestry University](https://www.nefu.edu.cn/). My research interests include Knowledge Graph(KG), Multimodal Large Language Model(MLLM), and LLM reasoning and evaluation. I am still in the initial learning stage of my scientific research and have strong self-motivation.
+My Chinese name is 罗中泽. I am currently a senior undergraduate majoring in Communication Engineering at [<img src="../images/NEFU_FLAG.png" alt="NEFU Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">Northeast Forestry University](https://www.nefu.edu.cn/). My research interests include Knowledge Graph, Multimodal Large Language Model, and LLM reasoning and evaluation. I am still in the initial learning stage of my scientific research and have strong self-motivation.
 
 You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
