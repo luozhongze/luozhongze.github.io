@@ -94,6 +94,7 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 - Welcome to visit my undergraduate thesis project [here](https://modelscope.cn/models/lzz66666/Qwen_communication_standards). Supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)
 
 # 🔍 Internships
+- *2025.01*, I am very honored to be a volunteer of [On Path to Multimodal Generalist: General-Level and General-Bench](https://generalist.top/), you can see my name on the last page(305) of this [paper](https://arxiv.org/pdf/2505.04620).
 - *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), Shenzhen, China.
 
