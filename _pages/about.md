@@ -105,71 +105,8 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 
 # 📸 Miscellaneous
 
-I like Formula 1 very much and my home team is McLaren. If you also like it, you are welcome to communicate with me, let's enjoy the fast and furious together.
+You are very welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit **my photo wall**.
 
-<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
-  <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
-    <img src='../images/f1.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
-  </div>
-</div>
+There are many moments about me here, including my hobbies, my Alma mater, and some other records of mine.
 
-I like watching movies. My favorite movies are Interstellar, Titanic, Coco, Harry Potter and so on.
-
-<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
-  <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
-    <img src='../images/hp.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
-  </div>
-</div>
-
-I also really like listening to music, I love all styles of music, such as R&B, Hip-Hop, Pop and so on.
-
-<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
-  <div class='paper-box-image' style="margin: 0; padding: 0; border: none;">
-    <img src='../images/hx.jpg' alt="sym" width="100%" style="margin: 0; padding: 0; border: none;">
-  </div>
-</div>
-  
-# 💖 Alma Mater recorded by me
-
-*spring*
-<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
-  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/1.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
-  </div>
-  <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/6.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
-  </div>
-</div>
-
-*summer*
-<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
-  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/5.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
-  </div>
-  <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/2.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
-  </div>
-</div>
-
-*autumn*
-<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
-  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/3.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
-  </div>
-  <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/4.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
-  </div>
-</div>
-
-*winter*
-<div class='paper-box' style="margin-top: 10px; margin-bottom: 20px; padding: 0; border: none;">
-  <div class='paper-box-image' style="display: inline-block; width: 48%; margin-right: 4%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/7.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
-  </div>
-  <div class='paper-box-image' style="display: inline-block; width: 48%; vertical-align: top; padding: 0; border: none;">
-    <img src='../images/1/8.jpg' alt="sym" width="100%" style="margin: 0; border: none;">
-  </div>
-</div>
-
-
-
+I believe that here you can have a more comprehensive and three-dimensional understanding of everything about me!
