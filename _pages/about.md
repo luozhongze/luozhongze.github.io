@@ -105,8 +105,8 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 
 # 📸 Miscellaneous
 
-You are very welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit **my photo wall**.
+You are very welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit *My Photo Wall*.
 
-There are many moments about me here, including my hobbies, my Alma mater, and some other records of mine.
+There are many moments about me, including my hobbies, my Alma mater, and some other records of mine.
 
 I believe that here you can have a more comprehensive and three-dimensional understanding of everything about me!
