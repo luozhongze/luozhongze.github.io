@@ -129,6 +129,9 @@
           Modelscope
         </a></li>
       {% endif %}
+      {% if author.myphotowall %}
+        <li><a href="{{ author.myphotowall }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> My Photo Wall</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
@@ -250,6 +253,9 @@
             <path d="M231.04 353.28h112.384V256H133.76v209.664h97.28V353.28zM231.04 577.984H133.76v209.664h209.664v-97.28H230.976V578.048z" fill="#2c2c2c" fill-opacity=".6" p-id="3361"></path>
           </svg>
         </a>
+      {% endif %}
+      {% if author.myphotowall %}
+        <a href="{{ author.myphotowall }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
     </div>
   </div>
