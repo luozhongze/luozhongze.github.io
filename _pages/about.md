@@ -91,8 +91,6 @@ Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [
 # 📖 Educations
 - *2021.09 - now*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home)
 
-- Welcome to visit my undergraduate thesis project [here](https://modelscope.cn/models/lzz66666/Qwen_communication_standards). Supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)
-
 # 🔍 Internships
 - *2025.01*, I am very honored to be a volunteer of [On Path to Multimodal Generalist: General-Level and General-Bench](https://generalist.top/) (ICML'25), you can see my name on the last page(305) of this [paper](https://arxiv.org/pdf/2505.04620).
 - *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/faculty/tangxiaoying)
