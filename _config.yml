@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhongze Luo"
-description              : "Visiting student at CUHKSZ"
+description              : #
 repository               : "luozhongze/luozhongze.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=3kBbqG4AAAAJ"
   email            : "luozhongze0928@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -58,6 +58,7 @@ author:
   youtube          :
   modelscope       : "lzz66666"
   rednote          : "60d40efc0000000001003b26"
+  myphotowall      : "http://luozhongze.github.io/aboutlzz"
 
 
 
