@@ -21,6 +21,8 @@ My Chinese name is 罗中泽. I am currently a senior undergraduate majoring in 
 
 You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
+You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit **MyPhotoWall**.
+
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **3** papers (**2** Journal, **1** Conference) that have been submitted and are **under review**.
 - *2025.4*: &nbsp;🎉🎉 New Conference Paper Accepted by IJCNN 2025. 
