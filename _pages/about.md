@@ -84,7 +84,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 [HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://arxiv.org/abs/2503.07371)
 
-Qizhi Zheng, **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
+[Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
 
 - arXiv preprint arXiv:2503.07371, 2025.
 </div>
