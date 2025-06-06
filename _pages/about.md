@@ -68,6 +68,18 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KG2QA</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering
+
+**Zhongze Luo**, Weixuan Wan, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, Jingyun Sun, [Jian Wang*](https://ccec.nefu.edu.cn/info/1043/1843.htm), [Dan Wang*](https://gr.xjtu.edu.cn/web/alexaustin)
+
+- arXiv preprint arXiv.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/Figure_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
