@@ -48,7 +48,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 [A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
 
-[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
+[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo**, [Yang Li*](https://sites.google.com/site/liyang0525/home)
 
 In Proceedings of the 31st International Conference on Computational Linguistics, pages 2603–2615, Abu Dhabi, UAE. (COLING 2025 Oral) | **CCF B/CORE B/THCPL B**
 </div>
@@ -85,7 +85,7 @@ KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication
 
 [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
 
-[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li](https://sites.google.com/site/liyang0525/home)*
+[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li*](https://sites.google.com/site/liyang0525/home)
 
 - arXiv preprint arXiv:2407.16252, 2024.
 </div>
