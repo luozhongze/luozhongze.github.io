@@ -48,7 +48,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 [A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
 
-[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo**, [Yang Li*](https://sites.google.com/site/liyang0525/home)
+[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
 In Proceedings of the 31st International Conference on Computational Linguistics, pages 2603–2615, Abu Dhabi, UAE. (COLING 2025 Oral) | **CCF B/CORE B/THCPL B**
 </div>
@@ -59,7 +59,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 [Elderly Fall Detection Algorithm Based on Improved YOLOv5s](https://doi.org/10.5755/j01.itc.53.2.36336)
 
-**Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
+**Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
 [**Huggingface**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) | **SCI Journal Paper (JCR Q3, IF:2)**
 - Information Technology and Control, 53(2), 601-618.
@@ -73,7 +73,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering
 
-**Zhongze Luo**, Weixuan Wan, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang*](https://ccec.nefu.edu.cn/info/1043/1843.htm), [Dan Wang*](https://gr.xjtu.edu.cn/web/alexaustin)
+**Zhongze Luo**, Weixuan Wan, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)*, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)*
 
 - arXiv preprint arXiv.
 </div>
@@ -85,7 +85,7 @@ KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication
 
 [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
 
-[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li*](https://sites.google.com/site/liyang0525/home)
+[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
 - arXiv preprint arXiv:2407.16252, 2024.
 </div>
@@ -96,7 +96,7 @@ KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication
 
 [HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://arxiv.org/abs/2503.07371)
 
-[Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
+[Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
 - arXiv preprint arXiv:2503.07371, 2025.
 </div>
