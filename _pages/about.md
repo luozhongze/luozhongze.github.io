@@ -113,6 +113,7 @@ KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), Shenzhen, China.
 
 # ✨ Honors and Awards
+- *2025.06* Outstanding Undergraduate Graduation Thesis of Northeast Forestry University (Only two in the entire grade 2/73, 3%)
 - *2024.08* Chinese Collegiate Computing Competition - Third Prize
 - *2022.11* Contemporary Undergraduate Mathematical Contest in Modeling - Provincial First Prize
 - *2022.03* University scholarship - First Prize
