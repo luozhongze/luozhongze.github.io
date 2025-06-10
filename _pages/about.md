@@ -62,7 +62,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 [Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
-- Journal of Real-Time Image Processing | **SCI Journal Paper (JCR Q2, IF:2.9)**
+- Journal of Real-Time Image Processing (Accepted) | **SCI Journal Paper (JCR Q2, IF:2.9)**
 </div>
 </div>
 
