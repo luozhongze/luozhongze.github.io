@@ -24,7 +24,8 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit **MyPhotoWall**.
 
 # 🔥 News
-- *now*: &nbsp;🎓🎓 I have **3** papers (**2** Journal, **1** Conference) that have been submitted and are **under review**.
+- *now*: &nbsp;🎓🎓 I have **2** papers (**1** Journal, **1** Conference) that have been submitted and are **under review**.
+- *2025.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
 - *2025.4*: &nbsp;🎉🎉 New Conference Paper Accepted by IJCNN 2025. 
 - *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 Oral. 
 - *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
@@ -51,6 +52,17 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
 In Proceedings of the 31st International Conference on Computational Linguistics, pages 2603–2615, Abu Dhabi, UAE. (COLING 2025 Oral) | **CCF B/CORE B/THCPL B**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HGO-YOLO</div><img src='../images/hgo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://arxiv.org/abs/2503.07371)
+
+[Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
+
+- Journal of Real-Time Image Processing | **SCI Journal Paper (JCR Q2, IF:2.9)**
 </div>
 </div>
 
@@ -89,17 +101,6 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
 - arXiv preprint arXiv:2407.16252, 2024.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HGO-YOLO</div><img src='../images/hgo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://arxiv.org/abs/2503.07371)
-
-[Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
-
-- arXiv preprint arXiv:2503.07371, 2025.
 </div>
 </div>
 
