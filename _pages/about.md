@@ -88,7 +88,8 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 **Zhongze Luo**<sup>#</sup>, Weixuan Wan<sup>#</sup>, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)<sup>$\spadesuit$</sup>, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)<sup>$\spadesuit$</sup>
 
-- [**Github**](https://github.com/luozhongze/KG2QA/) | arXiv preprint arXiv:2506.07037, 2025.
+[**Github**](https://github.com/luozhongze/KG2QA/) | Under Review
+- arXiv preprint arXiv:2506.07037, 2025.
 - <sup>#</sup> Equal Contribution; <sup>$\spadesuit$</sup> Corresponding authors
 </div>
 </div>
