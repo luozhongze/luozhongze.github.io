@@ -28,7 +28,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 - *2025.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
 - *2025.04*: &nbsp;🎉🎉 New Conference Paper Accepted by IJCNN 2025. 
 - *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 Oral. 
-- *2024.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
+- *2024.04*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
 
