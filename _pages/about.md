@@ -23,6 +23,8 @@ You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are int
 
 You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit **MyPhotoWall**.
 
+[link](http://gamecenter.qq.com/gcjump?appid=1104466820&pf=invite&from=iphoneqq&plat=qq&originuin=33760C006348D898DFA42EBE0582E679&ADTAG=gameobj.msg_invite&gamedata=ShareTeam_2049807538_1337_3675150248_1199587616_43121901158609711_0_1_1_3_20011_2_8_2_5_1_1_16_0_2_25_0_0_0_0_0_0_0_0_0_0_5)
+
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **under review**.
 - *2025.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
