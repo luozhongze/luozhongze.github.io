@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My Chinese name is 罗中泽. I am currently an incoming CIE Mphil at [<img src="../images/cuhksz.jpg" alt="CUHKSZ Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en). Before this, I obtained a Bachelor of Engineering degree in Communication Engineering from [<img src="../images/NEFU_FLAG.png" alt="NEFU Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">Northeast Forestry University](https://www.nefu.edu.cn/). My research interests include Knowledge Graph, Multimodal Large Language Model, and LLM reasoning and evaluation. I am still in the initial learning stage of my scientific research and have strong self-motivation.
+My Chinese name is 罗中泽. I am currently an incoming CIE Mphil at [T-Lab](https://xiaoyingtang-cuhk.github.io/en), [<img src="../images/cuhksz.jpg" alt="CUHKSZ Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en). Before this, I obtained a Bachelor of Engineering degree in Communication Engineering from [<img src="../images/NEFU_FLAG.png" alt="NEFU Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">Northeast Forestry University](https://www.nefu.edu.cn/). My research interests include Knowledge Graph, Multimodal Large Language Model, and LLM reasoning and evaluation. I am still in the initial learning stage of my scientific research and have strong self-motivation.
 
 You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
@@ -113,7 +113,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 # 🔍 Internships
 - *2025.03 - 2025.06*, [Xi'an Jiaotong University](https://eie.xjtu.edu.cn/en/info/1002/1002.htm), Xi'an, China. Supervised by [Prof. Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin).
 - *2025.01*, I am very honored to be a volunteer of [On Path to Multimodal Generalist: General-Level and General-Bench](https://generalist.top/) (ICML'25 Oral), you can see my name on the last page(305) of this [paper](https://arxiv.org/pdf/2505.04620).
-- *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/), Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
+- *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/en), Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), Shenzhen, China.
 
 # ✨ Honors and Awards
