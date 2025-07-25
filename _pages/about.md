@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My Chinese name is 罗中泽. I am currently an incoming CIE Mphil in the [T-Lab](https://xiaoyingtang-cuhk.github.io/en) of [<img src="../images/cuhksz.jpg" alt="CUHKSZ Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en). Before this, I obtained a Bachelor of Engineering degree in Communication Engineering from [<img src="../images/NEFU_FLAG.png" alt="NEFU Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">Northeast Forestry University](https://www.nefu.edu.cn/). My research interests include Knowledge Graph, Multimodal Large Language Model, and LLM reasoning and evaluation. I am still in the initial learning stage of my scientific research and have strong self-motivation.
+My Chinese name is 罗中泽. I am currently a CIE M.phil. in the [T-Lab](https://xiaoyingtang-cuhk.github.io/en) of [<img src="../images/cuhksz.jpg" alt="CUHKSZ Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en). Before this, I obtained a Bachelor of Engineering degree in Communication Engineering from [<img src="../images/NEFU_FLAG.png" alt="NEFU Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">Northeast Forestry University](https://www.nefu.edu.cn/).
+
+My research interests include Knowledge Graph, Multimodal Large Language Model, and LLM reasoning and evaluation. I am still in the initial learning stage of my scientific research and have strong self-motivation.
 
 You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
@@ -40,7 +42,6 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo***
 
 [**Github**](https://github.com/luozhongze/ForPKG) | In Proceedings of the International Joint Conference on Neural Networks (IJCNN) 2025 | **CCF C/CORE B/THCPL B**
-- [arXiv preprint arXiv:2411.11090v1, 2024](https://arxiv.org/abs/2411.11090v1). (Original Journal version)
 </div>
 </div>
 
@@ -51,7 +52,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
-In Proceedings of the 31st International Conference on Computational Linguistics, pages 2603–2615, Abu Dhabi, UAE. (COLING 2025 Oral) | **CCF B/CORE B/THCPL B**
+In Proceedings of the 31st International Conference on Computational Linguistics (COLING) 2025 | **CCF B/CORE B/THCPL B**
 </div>
 </div>
 
@@ -63,7 +64,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 [Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
 **SCI Journal Paper (JCR Q2, IF:2.9)**
-- Journal of Real-Time Image Processing (Accepted).
+- Journal of Real-Time Image Processing, 22(4), 1-15.
 </div>
 </div>
 
@@ -107,7 +108,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 </div>
 
 # 📖 Educations
-- *2025.09 - Now*, Master of Philosophy, Computer and Information Engineering(CIE), [T-Lab](https://xiaoyingtang-cuhk.github.io/en) of The Chinese University of Hong Kong, Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
+- *2025.09 - Now*, Master of Philosophy, Computer and Information Engineering, [T-Lab](https://xiaoyingtang-cuhk.github.io/en) of The Chinese University of Hong Kong, Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
 - *2021.09 - 2025.06*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home). You are welcome to click [here](https://luozhongze.github.io/KG2QA-thesis/) to view my undergraduate thesis, supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm).
 
 # 🔍 Internships
