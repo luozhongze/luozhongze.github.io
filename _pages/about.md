@@ -56,7 +56,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HGO-YOLO</div><img src='../images/hgo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRTIP 2025</div><img src='../images/hgo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://arxiv.org/abs/2503.07371)
