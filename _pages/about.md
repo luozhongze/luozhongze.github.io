@@ -39,7 +39,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 [ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://arxiv.org/abs/2411.11090v2)
 
-[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo***
+[Jingyun Sun](https://nefujing.github.io), **Zhongze Luo***
 
 [**Github**](https://github.com/luozhongze/ForPKG) | In Proceedings of the International Joint Conference on Neural Networks (IJCNN) 2025 | **CCF C/CORE B/THCPL B**
 </div>
@@ -50,7 +50,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 [A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
 
-[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
+[Jingyun Sun](https://nefujing.github.io), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
 In Proceedings of the 31st International Conference on Computational Linguistics (COLING) 2025 | **CCF B/CORE B/THCPL B**
 </div>
@@ -101,7 +101,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
 
-[Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li](https://sites.google.com/site/liyang0525/home)*
+[Jingyun Sun](https://nefujing.github.io), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
 - arXiv preprint arXiv:2407.16252, 2024.
 </div>
@@ -109,7 +109,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 # 📖 Educations
 - *2025.09 - Now*, Master of Philosophy, Computer and Information Engineering, [T-Lab](https://xiaoyingtang-cuhk.github.io/en) of The Chinese University of Hong Kong, Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
-- *2021.09 - 2025.06*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home). You are welcome to click [here](https://luozhongze.github.io/KG2QA-thesis/) to view my undergraduate thesis, supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm).
+- *2021.09 - 2025.06*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://nefujing.github.io), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home). You are welcome to click [here](https://luozhongze.github.io/KG2QA-thesis/) to view my undergraduate thesis, supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm).
 
 # 🔍 Internships
 - *2025.03 - 2025.06*, [Xi'an Jiaotong University](https://eie.xjtu.edu.cn/en/info/1002/1002.htm), Xi'an, China. Supervised by [Prof. Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin).
