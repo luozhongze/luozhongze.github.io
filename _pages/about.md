@@ -34,6 +34,19 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🎉 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRICAI 2025</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
+
+**Zhongze Luo**<sup>#</sup>, Weixuan Wan<sup>#</sup>, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)<sup>$\spadesuit$</sup>, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)<sup>$\spadesuit$</sup>
+
+[**Github**](https://github.com/luozhongze/KG2QA/) | In Proceedings of  the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025) | **CCF C/CORE B/THCPL N**
+- arXiv preprint arXiv:2506.07037, 2025.
+- <sup>#</sup> Equal Contribution; <sup>$\spadesuit$</sup> Corresponding authors
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -82,19 +95,6 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KG2QA</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
-
-**Zhongze Luo**<sup>#</sup>, Weixuan Wan<sup>#</sup>, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)<sup>$\spadesuit$</sup>, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)<sup>$\spadesuit$</sup>
-
-[**Github**](https://github.com/luozhongze/KG2QA/) | **Under Review**
-- arXiv preprint arXiv:2506.07037, 2025.
-- <sup>#</sup> Equal Contribution; <sup>$\spadesuit$</sup> Corresponding authors
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/Figure_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
