@@ -27,6 +27,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **under review**.
+- - *2025.08*: &nbsp;🎉🎉 New Conference Paper Accepted by PRICAI 2025 (short paper).
 - *2025.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
 - *2025.04*: &nbsp;🎉🎉 New Conference Paper Accepted by IJCNN 2025. 
 - *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 Oral. 
@@ -41,7 +42,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 **Zhongze Luo**<sup>#</sup>, Weixuan Wan<sup>#</sup>, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)<sup>$\spadesuit$</sup>, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)<sup>$\spadesuit$</sup>
 
-[**Github**](https://github.com/luozhongze/KG2QA/) | In Proceedings of  the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025) | **CCF C/CORE B/THCPL N**
+[**Github**](https://github.com/luozhongze/KG2QA/) | In Proceedings of  the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2025 | **CCF C/CORE B/THCPL N**
 - arXiv preprint arXiv:2506.07037, 2025.
 - <sup>#</sup> Equal Contribution; <sup>$\spadesuit$</sup> Corresponding authors
 </div>
