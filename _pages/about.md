@@ -96,6 +96,16 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-Physics</div><img src='../images/Figure_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://luozhongze.github.io/Multi-Physics/paper.pdf)
+
+**Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Jionghao Zhu, Zhichao Wang, Xiaoying Tang*
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/Figure_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
