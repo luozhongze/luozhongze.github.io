@@ -103,7 +103,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 **Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Jionghao Zhu, Zhichao Wang, Xiaoying Tang*
 
-[Github](https://github.com/luozhongze/Multi-Physics) | Under Review
+[**Github**](https://github.com/luozhongze/Multi-Physics) | **Under Review**
 </div>
 </div>
 
