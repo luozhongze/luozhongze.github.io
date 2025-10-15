@@ -97,7 +97,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KG2QA</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
+[KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
 
 **Zhongze Luo**, Weixuan Wan, Tianya Zhang, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin), Xiaoying Tang*
 
