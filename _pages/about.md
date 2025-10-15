@@ -99,9 +99,8 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 [KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
 
-**Zhongze Luo**, Weixuan Wan</sup>, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)<sup>$\spadesuit$</sup>, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)<sup>$\spadesuit$</sup>
+**Zhongze Luo**, Weixuan Wan, Tianya Zhang, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin), Xiaoying Tang*
 
-- <sup>#</sup> Equal Contribution; <sup>$\spadesuit$</sup> Corresponding authors
 [**Github**](https://github.com/luozhongze/KG2QA/) | **Under Review**
 </div>
 </div>
