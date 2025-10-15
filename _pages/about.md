@@ -27,25 +27,12 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **under review**.
-- *2025.08*: &nbsp;🎉🎉 New Conference Paper Accepted by PRICAI 2025 (short paper).
 - *2025.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
 - *2025.04*: &nbsp;🎉🎉 New Conference Paper Accepted by IJCNN 2025. 
 - *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 Oral. 
 - *2024.04*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRICAI 2025</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
-
-**Zhongze Luo**<sup>#</sup>, Weixuan Wan<sup>#</sup>, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)<sup>$\spadesuit$</sup>, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)<sup>$\spadesuit$</sup>
-
-[**Github**](https://github.com/luozhongze/KG2QA/) | In Proceedings of  the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2025 | **CCF C/CORE B/THCPL N**
-- <sup>#</sup> Equal Contribution; <sup>$\spadesuit$</sup> Corresponding authors
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,6 +91,18 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 **Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Jionghao Zhu, Zhichao Wang, Xiaoying Tang*
 
 [**Github**](https://github.com/luozhongze/Multi-Physics) | **Under Review**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KG2QA</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
+
+**Zhongze Luo**, Weixuan Wan</sup>, [Qizhi Zheng](http://zhengqizhi30.github.io), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)<sup>$\spadesuit$</sup>, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)<sup>$\spadesuit$</sup>
+
+- <sup>#</sup> Equal Contribution; <sup>$\spadesuit$</sup> Corresponding authors
+[**Github**](https://github.com/luozhongze/KG2QA/) | **Under Review**
 </div>
 </div>
 
