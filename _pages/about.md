@@ -88,7 +88,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 [Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://arxiv.org/abs/2509.15839)
 
-**Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Jionghao Zhu, Zhichao Wang, Xiaoying Tang*
+**Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Zhichao Wang, Jionghao Zhu, Xiaoying Tang*
 
 [**Github**](https://github.com/luozhongze/Multi-Physics) | **Under Review**
 </div>
