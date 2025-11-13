@@ -19,7 +19,7 @@ redirect_from:
 
 My Chinese name is 罗中泽. I am currently a CIE M.phil. in the [T-Lab](https://xiaoyingtang-cuhk.github.io/en) of [<img src="../images/cuhksz.jpg" alt="CUHKSZ Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">The Chinese University of Hong Kong, Shenzhen](https://sse.cuhk.edu.cn/en). Before this, I obtained a Bachelor of Engineering degree in Communication Engineering from [<img src="../images/NEFU_FLAG.png" alt="NEFU Logo" style="width: 20px; height: auto; vertical-align: middle; margin-right: 5px;">Northeast Forestry University](https://www.nefu.edu.cn/).
 
-My research interests include Knowledge Graph, Multimodal Large Language Models, LLM reasoning and evaluation. I am still in the initial learning stage of my scientific research and have strong self-motivation.
+My research interests include Multimodal Large Language Models, LLM reasoning and evaluation, Knowledge Graph. I am still in the initial learning stage of my scientific research and have strong self-motivation.
 
 You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
