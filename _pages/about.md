@@ -37,7 +37,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://arxiv.org/abs/2411.11090v2)
+[ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://ieeexplore.ieee.org/document/11228178)
 
 [Jingyun Sun](https://nefujing.github.io), **Zhongze Luo***
 
