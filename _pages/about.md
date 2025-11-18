@@ -59,7 +59,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRTIP 2025</div><img src='../images/hgo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://arxiv.org/abs/2503.07371)
+[HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://link.springer.com/article/10.1007/s11554-025-01717-8)
 
 [Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
