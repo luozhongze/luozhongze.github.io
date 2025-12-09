@@ -118,7 +118,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 # 📖 Educations
 - *2025.09 - Now*, Master of Philosophy, Computer and Information Engineering, [T-Lab](https://xiaoyingtang-cuhk.github.io/en) of The Chinese University of Hong Kong, Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
-- *2021.09 - 2025.06*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://nefujing.github.io), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home). You are welcome to click [here](https://luozhongze.github.io/KG2QA-thesis/) to view my undergraduate thesis, supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm).
+- *2021.09 - 2025.06*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://nefujing.github.io), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home). You are welcome to click [here](https://luozhongze.github.io/UG-thesis/) to view my undergraduate thesis, supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm).
 
 # 🔍 Internships
 - *2025.03 - 2025.06*, [Xi'an Jiaotong University](https://eie.xjtu.edu.cn/en/info/1002/1002.htm), Xi'an, China. Supervised by [Prof. Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin).
