@@ -27,11 +27,11 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **Under Review**.
-- *2026.01*: &nbsp;🎉🎉 2 Conference Papers Accepted by ICASSP 2026.
-- *2025.06*: &nbsp;🎉🎉 1 Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
-- *2025.04*: &nbsp;🎉🎉 1 Conference Paper Accepted by IJCNN 2025. 
-- *2024.11*: &nbsp;🎉🎉 1 Conference Paper Accepted by COLING 2025 Oral. 
-- *2024.04*: &nbsp;🎉🎉 1 Journal Paper Accepted by Information Technology and Control 2024.  
+- *2026.01*: &nbsp;🎉🎉 Two Conference Papers Accepted by ICASSP 2026.
+- *2025.06*: &nbsp;🎉🎉 One Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
+- *2025.04*: &nbsp;🎉🎉 One Conference Paper Accepted by IJCNN 2025. 
+- *2024.11*: &nbsp;🎉🎉 One Conference Paper Accepted by COLING 2025 Oral. 
+- *2024.04*: &nbsp;🎉🎉 One Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
 
