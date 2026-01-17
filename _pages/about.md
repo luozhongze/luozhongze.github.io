@@ -36,7 +36,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 # 🎉 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-Physics</div><img src='../images/Figure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='../images/Figure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://arxiv.org/abs/2509.15839)
@@ -47,7 +47,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KG2QA</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
