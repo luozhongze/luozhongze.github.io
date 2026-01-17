@@ -27,12 +27,36 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **under review**.
-- *2025.06*: &nbsp;🎉🎉 New Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
-- *2025.04*: &nbsp;🎉🎉 New Conference Paper Accepted by IJCNN 2025. 
-- *2024.11*: &nbsp;🎉🎉 New Conference Paper Accepted by COLING 2025 Oral. 
-- *2024.04*: &nbsp;🎉🎉 New Journal Paper Accepted by Information Technology and Control 2024.  
+- *2026.01*: &nbsp;🎉🎉 2 Paper Accepted by ICASSP 2026.
+- *2025.06*: &nbsp;🎉🎉 1 Paper Accepted by Journal of Real-Time Image Processing 2025.
+- *2025.04*: &nbsp;🎉🎉 1 Paper Accepted by IJCNN 2025. 
+- *2024.11*: &nbsp;🎉🎉 1 Paper Accepted by COLING 2025 Oral. 
+- *2024.04*: &nbsp;🎉🎉 1 Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-Physics</div><img src='../images/Figure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://arxiv.org/abs/2509.15839)
+
+**Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Zhichao Wang, Jionghao Zhu, Xiaoying Tang*
+
+[**Github**](https://github.com/luozhongze/Multi-Physics) | In Proceedings of the 51st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026 | **CCF B/CORE B/THCPL B**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KG2QA</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
+
+**Zhongze Luo**, Weixuan Wan, Tianya Zhang, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin), Xiaoying Tang*
+
+[**Github**](https://github.com/luozhongze/KG2QA/) | In Proceedings of the 51st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026 | **CCF B/CORE B/THCPL B**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,28 +106,6 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-Physics</div><img src='../images/Figure1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://arxiv.org/abs/2509.15839)
-
-**Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Zhichao Wang, Jionghao Zhu, Xiaoying Tang*
-
-[**Github**](https://github.com/luozhongze/Multi-Physics) | **Under Review**
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KG2QA</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://arxiv.org/abs/2506.07037)
-
-**Zhongze Luo**, Weixuan Wan, Tianya Zhang, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin), Xiaoying Tang*
-
-[**Github**](https://github.com/luozhongze/KG2QA/) | **Under Review**
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/Figure_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
