@@ -27,7 +27,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **Under Review**.
-- *2026.01*: &nbsp;🎉🎉 Two Conference Papers Accepted by ICASSP 2026.
+- *2026.01*: &nbsp;🎉🎉 Two Conference Papers Accepted by ICASSP 2026 (One Oral).
 - *2025.06*: &nbsp;🎉🎉 One Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
 - *2025.04*: &nbsp;🎉🎉 One Conference Paper Accepted by IJCNN 2025. 
 - *2024.11*: &nbsp;🎉🎉 One Conference Paper Accepted by COLING 2025 Oral. 
@@ -36,7 +36,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 # 🎉 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='../images/Figure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026 Oral</div><img src='../images/Figure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://arxiv.org/abs/2509.15839)
@@ -69,7 +69,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025 Oral</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
