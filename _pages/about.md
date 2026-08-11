@@ -39,19 +39,19 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 **Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Zhichao Wang, Jionghao Zhu, Xiaoying Tang*
 
-[**Github**](https://github.com/luozhongze/Multi-Physics) - ICASSP 2026 Oral - **CCF B/CORE B/THCPL B**
+ICASSP 2026 Oral - **CCF B/CORE B/THCPL B** - [**Github**](https://github.com/luozhongze/Multi-Physics)
 
 - [KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://ieeexplore.ieee.org/document/11463816)
 
 **Zhongze Luo**, Weixuan Wan, Tianya Zhang, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin), Xiaoying Tang*
 
-[**Github**](https://github.com/luozhongze/KG2QA/) - ICASSP 2026 - **CCF B/CORE B/THCPL B**
+ICASSP 2026 - **CCF B/CORE B/THCPL B** - [**Github**](https://github.com/luozhongze/KG2QA/)
 
 - [ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://ieeexplore.ieee.org/document/11228178)
 
 [Jingyun Sun](https://nefujing.github.io), **Zhongze Luo***
 
-[**Github**](https://github.com/luozhongze/ForPKG) - IJCNN 2025 - **CCF C/CORE B/THCPL B**
+IJCNN 2025 - **CCF C/CORE B/THCPL B** - [**Github**](https://github.com/luozhongze/ForPKG)
 
 - [A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
 
