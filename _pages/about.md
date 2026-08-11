@@ -49,25 +49,25 @@ ICASSP 2026 - **CCF B/CORE B/THCPL B** - [**Github**](https://github.com/luozhon
 
 - [ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://ieeexplore.ieee.org/document/11228178)
 
-[Jingyun Sun](https://nefujing.github.io), **Zhongze Luo***
+Jingyun Sun, **Zhongze Luo***
 
 IJCNN 2025 - **CCF C/CORE B/THCPL B** - [**Github**](https://github.com/luozhongze/ForPKG)
 
 - [A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
 
-[Jingyun Sun](https://nefujing.github.io), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
+Jingyun Sun, **Zhongze Luo**, Yang Li*
 
 COLING 2025 - **CCF B/CORE B/THCPL B**
 
 - [HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://link.springer.com/article/10.1007/s11554-025-01717-8)
 
-[Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
+[Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, Guanghui Dong*
 
 Journal of Real-Time Image Processing, 22(4), 1-15. - **SCI Journal Paper (JCR Q2, IF:2.9)**
 
 - [Elderly Fall Detection Algorithm Based on Improved YOLOv5s](https://doi.org/10.5755/j01.itc.53.2.36336)
 
-**Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
+**Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, Guanghui Dong*
 
 Information Technology and Control, 53(2), 601-618. - **SCI Journal Paper (JCR Q3, IF:2)**
 
@@ -76,7 +76,7 @@ Information Technology and Control, 53(2), 601-618. - **SCI Journal Paper (JCR Q
 
 - [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
 
-[Jingyun Sun](https://nefujing.github.io), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li](https://sites.google.com/site/liyang0525/home)*
+Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li*
 
 arXiv preprint arXiv:2407.16252, 2024.
 
