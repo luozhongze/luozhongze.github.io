@@ -21,7 +21,7 @@ My Chinese name is 罗中泽. I am currently a CIE M.phil. in the [T-Lab](https:
 
 My research interests include Multimodal Understanding, LLM Reasoning and Evaluation, Knowledge Graph. I am still in the initial learning stage of my scientific research and have strong self-motivation.
 
-You can find my CV here: [My Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
+You can find my CV here: [CV(en)](../assets/CV.pdf) and [CV(ch)](../assets/个人简历.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:luozhongze0928@foxmail.com) or add [My WeChat (微信)](../images/微信图片.jpg).
 
 You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit **MyPhotoWall**.
 
@@ -71,7 +71,7 @@ Journal of Real-Time Image Processing, 22(4), 1-15.
 
 **Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
-[**Huggingface**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) - **SCI Journal Paper (JCR Q3, IF:2)**
+**SCI Journal Paper (JCR Q3, IF:2)**
 
 Information Technology and Control, 53(2), 601-618.
 
