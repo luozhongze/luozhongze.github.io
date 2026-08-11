@@ -39,25 +39,25 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 **Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Zhichao Wang, Jionghao Zhu, Xiaoying Tang*
 
-[**Github**](https://github.com/luozhongze/Multi-Physics) | ICASSP 2026 Oral | **CCF B/CORE B/THCPL B**
+[**Github**](https://github.com/luozhongze/Multi-Physics) - ICASSP 2026 Oral - **CCF B/CORE B/THCPL B**
 
 - [KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://ieeexplore.ieee.org/document/11463816)
 
 **Zhongze Luo**, Weixuan Wan, Tianya Zhang, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin), Xiaoying Tang*
 
-[**Github**](https://github.com/luozhongze/KG2QA/) | ICASSP 2026 | **CCF B/CORE B/THCPL B**
+[**Github**](https://github.com/luozhongze/KG2QA/) - ICASSP 2026 - **CCF B/CORE B/THCPL B**
 
 - [ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://ieeexplore.ieee.org/document/11228178)
 
 [Jingyun Sun](https://nefujing.github.io), **Zhongze Luo***
 
-[**Github**](https://github.com/luozhongze/ForPKG) | IJCNN 2025 | **CCF C/CORE B/THCPL B**
+[**Github**](https://github.com/luozhongze/ForPKG) - IJCNN 2025 - **CCF C/CORE B/THCPL B**
 
 - [A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
 
 [Jingyun Sun](https://nefujing.github.io), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
-COLING 2025 | **CCF B/CORE B/THCPL B**
+COLING 2025 - **CCF B/CORE B/THCPL B**
 
 - [HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://link.springer.com/article/10.1007/s11554-025-01717-8)
 
@@ -71,7 +71,7 @@ Journal of Real-Time Image Processing, 22(4), 1-15.
 
 **Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
-[**Huggingface**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) | **SCI Journal Paper (JCR Q3, IF:2)**
+[**Huggingface**](https://huggingface.co/datasets/luozhongze/YOLO-GCC) - **SCI Journal Paper (JCR Q3, IF:2)**
 
 Information Technology and Control, 53(2), 601-618.
 
