@@ -74,6 +74,12 @@ Information Technology and Control, 53(2), 601-618. - **SCI Journal Paper (JCR Q
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
 
+- [Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs](https://arxiv.org/abs/2606.04483)
+
+**Zhongze Luo**, Ruihe Shi, Zhenshuai Yin, Haoyue Liu, Weixuan Wan, Xiaoying Tang*
+
+arXiv preprint arXiv:2606.04483, 2026.
+
 - [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
 
 Jingyun Sun, Chengxiao Dai, **Zhongze Luo**, Yangbo Chang, Yang Li*
