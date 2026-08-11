@@ -35,55 +35,39 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🎉 Publications 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026 Oral</div><img src='../images/Figure1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://ieeexplore.ieee.org/document/11460990)
+- [Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://ieeexplore.ieee.org/document/11460990)
 
 **Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Zhichao Wang, Jionghao Zhu, Xiaoying Tang*
 
-[**Github**](https://github.com/luozhongze/Multi-Physics) | In Proceedings of the 51st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026 | **CCF B/CORE B/THCPL B**
+[**Github**](https://github.com/luozhongze/Multi-Physics) | ICASSP 2026 Oral | **CCF B/CORE B/THCPL B**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='../images/kg2qa.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://ieeexplore.ieee.org/document/11463816)
+- [KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://ieeexplore.ieee.org/document/11463816)
 
 **Zhongze Luo**, Weixuan Wan, Tianya Zhang, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin), Xiaoying Tang*
 
-[**Github**](https://github.com/luozhongze/KG2QA/) | In Proceedings of the 51st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026 | **CCF B/CORE B/THCPL B**
+[**Github**](https://github.com/luozhongze/KG2QA/) | ICASSP 2026 | **CCF B/CORE B/THCPL B**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='../images/images3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://ieeexplore.ieee.org/document/11228178)
+- [ForPKG: A Framework for Constructing Forestry Policy Knowledge Graph and Application Analysis](https://ieeexplore.ieee.org/document/11228178)
 
 [Jingyun Sun](https://nefujing.github.io), **Zhongze Luo***
 
-[**Github**](https://github.com/luozhongze/ForPKG) | In Proceedings of the International Joint Conference on Neural Networks (IJCNN) 2025 | **CCF C/CORE B/THCPL B**
+[**Github**](https://github.com/luozhongze/ForPKG) | IJCNN 2025 | **CCF C/CORE B/THCPL B**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025 Oral</div><img src='../images/coling.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
+- [A Compliance Checking Framework Based on Retrieval Augmented Generation](https://aclanthology.org/2025.coling-main.178/)
 
 [Jingyun Sun](https://nefujing.github.io), **Zhongze Luo**, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
-In Proceedings of the 31st International Conference on Computational Linguistics (COLING) 2025 | **CCF B/CORE B/THCPL B**
+COLING 2025 | **CCF B/CORE B/THCPL B**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRTIP 2025</div><img src='../images/hgo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://link.springer.com/article/10.1007/s11554-025-01717-8)
+- [HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://link.springer.com/article/10.1007/s11554-025-01717-8)
 
 [Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
@@ -92,10 +76,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITC 2024</div><img src='../images/image.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Elderly Fall Detection Algorithm Based on Improved YOLOv5s](https://doi.org/10.5755/j01.itc.53.2.36336)
+- [Elderly Fall Detection Algorithm Based on Improved YOLOv5s](https://doi.org/10.5755/j01.itc.53.2.36336)
 
 **Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
@@ -107,10 +88,7 @@ In Proceedings of the 31st International Conference on Computational Linguistics
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LawLuo</div><img src='../images/Figure_2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
+- [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
 
 [Jingyun Sun](https://nefujing.github.io), [Chengxiao Dai](https://scholar.google.com/citations?user=9IYEVxcAAAAJ&hl=en), **Zhongze Luo**, Yangbo Chang, [Yang Li](https://sites.google.com/site/liyang0525/home)*
 
