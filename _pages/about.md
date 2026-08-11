@@ -63,17 +63,13 @@ COLING 2025 - **CCF B/CORE B/THCPL B**
 
 [Qizhi Zheng](http://zhengqizhi30.github.io), **Zhongze Luo**, Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
-**SCI Journal Paper (JCR Q2, IF:2.9)**
-
-Journal of Real-Time Image Processing, 22(4), 1-15.
+Journal of Real-Time Image Processing, 22(4), 1-15. - **SCI Journal Paper (JCR Q2, IF:2.9)**
 
 - [Elderly Fall Detection Algorithm Based on Improved YOLOv5s](https://doi.org/10.5755/j01.itc.53.2.36336)
 
 **Zhongze Luo**, Siying Jia, Hongjun Niu, Yifu Zhao, Xiaoyu Zeng, [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)*
 
-**SCI Journal Paper (JCR Q3, IF:2)**
-
-Information Technology and Control, 53(2), 601-618.
+Information Technology and Control, 53(2), 601-618. - **SCI Journal Paper (JCR Q3, IF:2)**
 
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
