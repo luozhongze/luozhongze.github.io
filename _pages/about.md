@@ -57,7 +57,7 @@ IJCNN 2025 - **CCF C/CORE B/THCPL B** - [**Github**](https://github.com/luozhong
 
 Jingyun Sun, **Zhongze Luo**, Yang Li*
 
-COLING 2025 - **CCF B/CORE B/THCPL B**
+COLING 2025 Oral - **CCF B/CORE B/THCPL B**
 
 - [HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://link.springer.com/article/10.1007/s11554-025-01717-8)
 
