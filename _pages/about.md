@@ -92,7 +92,7 @@ arXiv preprint arXiv:2407.16252, 2024.
 
 # 🔍 Internships
 - *2025.01*, I am very honored to be a volunteer of [On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620) (ICML'25 Oral), you can see my name on the last page(305) of this [paper](https://arxiv.org/pdf/2505.04620).
-- *2024.07 - 2025.01*, [CUHKSZ](https://sse.cuhk.edu.cn/en), Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
+- *2024.07 - 2025.01*, [CUHK-Shenzhen](https://sse.cuhk.edu.cn/en), Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
 - *2024.01 - 2024.03*, [BYD Company Limited](https://www.bydglobal.com/en/index.html), Shenzhen, China.
 
 # ✨ Honors and Awards
