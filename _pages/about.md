@@ -27,6 +27,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🔥 News
 - *now*: &nbsp;🎓🎓 I have **2** papers that have been submitted and are **Under Review**.
+- *2026.08*: &nbsp;🎉🎉 One Conference Paper Accepted by EMNLP 2026. 
 - *2026.01*: &nbsp;🎉🎉 Two Conference Papers Accepted by ICASSP 2026 (One Oral).
 - *2025.06*: &nbsp;🎉🎉 One Journal Paper Accepted by Journal of Real-Time Image Processing 2025.
 - *2025.04*: &nbsp;🎉🎉 One Conference Paper Accepted by IJCNN 2025. 
@@ -34,6 +35,12 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 - *2024.04*: &nbsp;🎉🎉 One Journal Paper Accepted by Information Technology and Control 2024.  
 
 # 🎉 Publications 
+
+- [Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs](https://arxiv.org/abs/2606.04483)
+
+**Zhongze Luo**, Ruihe Shi, Zhenshuai Yin, Haoyue Liu, Weixuan Wan, Xiaoying Tang*
+
+EMNLP 2026 Main - **CCF B/CORE A^*/THCPL A** - [**Github**](https://github.com/luozhongze/ODV)
 
 - [Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://ieeexplore.ieee.org/document/11460990)
 
@@ -73,12 +80,6 @@ Information Technology and Control, 53(2), 601-618. - **SCI Journal Paper (JCR Q
 
 # 📝 Preprints
 <span class='anchor' id='Preprints'></span>
-
-- [Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs](https://arxiv.org/abs/2606.04483)
-
-**Zhongze Luo**, Ruihe Shi, Zhenshuai Yin, Haoyue Liu, Weixuan Wan, Xiaoying Tang*
-
-arXiv preprint arXiv:2606.04483, 2026.
 
 - [LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://doi.org/10.48550/arXiv.2407.16252)
 
