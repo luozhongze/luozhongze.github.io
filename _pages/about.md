@@ -42,13 +42,13 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 EMNLP 2026 Main - **CCF B/CORE A\*/THCPL A** - [**Github**](https://github.com/luozhongze/ODV)
 
-- [Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-subject Physics Problems](https://ieeexplore.ieee.org/document/11460990)
+- [Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-Subject Physics Problems](https://ieeexplore.ieee.org/document/11460990)
 
 **Zhongze Luo**, Zhenshuai Yin, Yongxin Guo, Zhichao Wang, Jionghao Zhu, Xiaoying Tang*
 
 ICASSP 2026 Oral - **CCF B/CORE B/THCPL B** - [**Github**](https://github.com/luozhongze/Multi-Physics)
 
-- [KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering](https://ieeexplore.ieee.org/document/11463816)
+- [KG2QA: Knowledge Graph-Enhanced Retrieval-Augmented Generation for Communication Standards Question Answering](https://ieeexplore.ieee.org/document/11463816)
 
 **Zhongze Luo**, Weixuan Wan, Tianya Zhang, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin), Xiaoying Tang*
 
