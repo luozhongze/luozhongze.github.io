@@ -36,7 +36,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 # 🎉 Publications 
 
-- [Voices Across Registers: Corpus-Conditioned Jailbreaks against Aligned LLMs via Fanfiction Subgenres](https://arxiv.org/abs/2606.04483)
+- [Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres](https://arxiv.org/abs/2606.04483)
 
 **Zhongze Luo**, Ruihe Shi, Zhenshuai Yin, Haoyue Liu, Weixuan Wan, Xiaoying Tang*
 
