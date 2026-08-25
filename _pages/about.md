@@ -40,7 +40,7 @@ You are welcome to click [here](https://luozhongze.github.io/aboutlzz/) to visit
 
 **Zhongze Luo**, Ruihe Shi, Zhenshuai Yin, Haoyue Liu, Weixuan Wan, Xiaoying Tang*
 
-EMNLP 2026 Main - **CCF B/CORE A\*/THCPL A** - [**Github**](https://github.com/luozhongze/ODV)
+EMNLP 2026 Main - **CCF B/CORE A\*/THCPL A** - [**Github**](https://github.com/luozhongze/VAR)
 
 - [Multi-Physics: A Comprehensive Benchmark for Multimodel LLMs Reasoning on Chinese Multi-Subject Physics Problems](https://ieeexplore.ieee.org/document/11460990)
 
