@@ -89,10 +89,10 @@ arXiv preprint arXiv:2407.16252, 2024.
 
 # 📖 Educations
 - *2025.09 - Now*, Master of Philosophy, Computer and Information Engineering, [T-Lab](https://xiaoyingtang-cuhk.github.io/en) of The Chinese University of Hong Kong, Shenzhen, China. Supervised by [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying).
-- *2021.09 - 2025.06*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), [Prof. Jingyun Sun](https://nefujing.github.io), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home). You are welcome to click [here](https://luozhongze.github.io/UG-thesis/) to view my undergraduate thesis, supervised by [Prof. Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm).
+- *2021.09 - 2025.06*, Bachelor of Communication Engineering, Northeast Forestry University, Harbin, China. Supervised by [Prof. Guanghui Dong](https://ccie.nefu.edu.cn/info/1231/4791.htm), [Prof. Jingyun Sun](https://nefujing.github.io), and [Prof. Yang Li](https://sites.google.com/site/liyang0525/home). You are welcome to click [here](https://luozhongze.github.io/UG-thesis/) to view my undergraduate thesis, supervised by [Prof. Jian Wang](https://ccie.nefu.edu.cn/info/1231/4911.htm).
 
 # 🔍 Internships
-- *2026.09 - 2024.11*, [NIO](www.nio.com), Shenzhen, China.
+- *2026.09 - 2026.11*, [NIO](www.nio.com), Shenzhen, China.
 - *2025.01*, I am very honored to be a volunteer of [On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620) (ICML'25 Oral), you can see my name on the last page(305) of this [paper](https://arxiv.org/pdf/2505.04620).
 - *2024.01 - 2024.03*, [BYD](www.byd.com), Shenzhen, China.
 
